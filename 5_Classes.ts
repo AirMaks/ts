@@ -66,6 +66,7 @@ class Man {
         this.age = age
     }
 
+    // @ts-ignore
     set myAge(age: number) {
         this.age = age
     }
